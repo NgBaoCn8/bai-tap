@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713726284 source:c:\users\admin\documents\bai tap\tuan 3\sdl\sdl demo\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
